@@ -1,6 +1,16 @@
-# checklist
+# Survey Checklist app
+An app use to help surveyor and and owner.
 
-A new Flutter project.
+# Applications 
+For surveying industrial equipment, ships, and other assets.
+
+# Workflow
+First, the owner will create a checklist template that specify all location or equipment that needs to be surveyed
+Second, the owner will share a .chklst to the surveyor and then the surveyor will use the checklist for surveying purposes
+Third, the surveyor will send a report to the owner in PDF format
+Fourth, if the survey report still needs a follow up report than surveyor could use the follow up feature to complete the previous survey
+
+
 
 ## Getting Started
 
