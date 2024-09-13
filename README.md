@@ -1,6 +1,3 @@
-# Survey Checklist app
-An app use to help surveyor and and owner.
-
 # Applications 
 For surveying industrial equipment, ships, and other assets.
 
