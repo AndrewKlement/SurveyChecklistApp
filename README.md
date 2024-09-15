@@ -7,6 +7,46 @@ For surveying industrial equipment, ships, and other assets.
 - Third, the surveyor will send a report to the owner in PDF format
 - Fourth, if the survey report still needs a follow up report than surveyor could use the follow up feature to complete the previous survey
 
+# Screenshots 
+<table>
+  <tr>
+    <th>
+        <a href="https://github.com/AndrewKlement/SurveyChecklistApp/blob/2e2ac4513c51bba2d6cb8f1358cbb0352c9e66d5/assets/Screenshot_20240913_234813.jpg" target="_blank">
+        <img src='https://github.com/AndrewKlement/SurveyChecklistApp/blob/2e2ac4513c51bba2d6cb8f1358cbb0352c9e66d5/assets/Screenshot_20240913_234813.jpg' width='200px' alt='image missing' /> </a>
+    </th>
+    <th>
+        <a href="https://github.com/AndrewKlement/SurveyChecklistApp/blob/2e2ac4513c51bba2d6cb8f1358cbb0352c9e66d5/assets/Screenshot_20240913_235050.jpg" target="_blank">
+        <img src='https://github.com/AndrewKlement/SurveyChecklistApp/blob/2e2ac4513c51bba2d6cb8f1358cbb0352c9e66d5/assets/Screenshot_20240913_235050.jpg' width='200px' alt='image missing' /> </a>
+    </th>
+    <th>
+        <a href="https://github.com/AndrewKlement/SurveyChecklistApp/blob/2e2ac4513c51bba2d6cb8f1358cbb0352c9e66d5/assets/Screenshot_20240913_235055.jpg" target="_blank">
+        <img src='https://github.com/AndrewKlement/SurveyChecklistApp/blob/2e2ac4513c51bba2d6cb8f1358cbb0352c9e66d5/assets/Screenshot_20240913_235055.jpg' width='200px' alt='image missing' /> </a>
+    </th>
+    <th>
+        <a href="https://github.com/AndrewKlement/SurveyChecklistApp/blob/2e2ac4513c51bba2d6cb8f1358cbb0352c9e66d5/assets/Screenshot_20240913_235058.jpg" target="_blank">
+        <img src='https://github.com/AndrewKlement/SurveyChecklistApp/blob/2e2ac4513c51bba2d6cb8f1358cbb0352c9e66d5/assets/Screenshot_20240913_235058.jpg' width='200px' alt='image missing' /> </a>
+    </th>
+  </tr>
+
+  <tr>
+    <th>
+        <a href="https://github.com/AndrewKlement/SurveyChecklistApp/blob/2e2ac4513c51bba2d6cb8f1358cbb0352c9e66d5/assets/Screenshot_20240913_235104.jpg" target="_blank">
+        <img src='https://github.com/AndrewKlement/SurveyChecklistApp/blob/2e2ac4513c51bba2d6cb8f1358cbb0352c9e66d5/assets/Screenshot_20240913_235104.jpg' width='200px' alt='image missing' /> </a>
+    </th>
+    <th>
+        <a href="https://github.com/AndrewKlement/SurveyChecklistApp/blob/2e2ac4513c51bba2d6cb8f1358cbb0352c9e66d5/assets/Screenshot_20240913_235540.jpg" target="_blank">
+        <img src='https://github.com/AndrewKlement/SurveyChecklistApp/blob/2e2ac4513c51bba2d6cb8f1358cbb0352c9e66d5/assets/Screenshot_20240913_235540.jpg' width='200px' alt='image missing' /> </a>
+    </th>
+    <th>
+        <a href="https://github.com/AndrewKlement/SurveyChecklistApp/blob/2e2ac4513c51bba2d6cb8f1358cbb0352c9e66d5/assets/Screenshot_20240913_235535.jpg" target="_blank">
+        <img src='https://github.com/AndrewKlement/SurveyChecklistApp/blob/2e2ac4513c51bba2d6cb8f1358cbb0352c9e66d5/assets/Screenshot_20240913_235535.jpg' width='200px' alt='image missing' /> </a>
+    </th>
+    <th>
+        <a href="https://github.com/AndrewKlement/SurveyChecklistApp/blob/2e2ac4513c51bba2d6cb8f1358cbb0352c9e66d5/assets/Screenshot_20240913_235222_Android%20System.jpg" target="_blank">
+        <img src='https://github.com/AndrewKlement/SurveyChecklistApp/blob/2e2ac4513c51bba2d6cb8f1358cbb0352c9e66d5/assets/Screenshot_20240913_235222_Android%20System.jpg' width='200px' alt='image missing' /> </a>
+    </th>
+  </tr>
+</table>
 
 
 ## Getting Started
