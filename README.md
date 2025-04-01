@@ -2,10 +2,10 @@
 An application for surveying industrial equipment, ships, and other assets.
 
 # Workflow
-- First, the owner will create a checklist template that specify all location or equipment that needs to be surveyed
-- Second, the owner will share a .chklst to the surveyor and then the surveyor will use the checklist for surveying purposes
+- First, the owner will create a checklist template that specifies all location or equipment that needs to be surveyed
+- Second, the owner will share a .chklst with the surveyor, and then the surveyor will use the checklist for surveying purposes
 - Third, the surveyor will send a report to the owner in PDF format
-- Fourth, if the survey report still needs a follow up report than surveyor could use the follow up feature to complete the previous survey
+- Fourth, if the survey report still needs a follow-up report than the surveyor could use the follow-up feature to complete the previous survey
 
 # Screenshots 
 <table>
