@@ -1,5 +1,5 @@
 # Applications 
-For surveying industrial equipment, ships, and other assets.
+An application for surveying industrial equipment, ships, and other assets.
 
 # Workflow
 - First, the owner will create a checklist template that specify all location or equipment that needs to be surveyed
